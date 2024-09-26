@@ -4,7 +4,7 @@
 This project aims to build a machine learning model that predicts the median home value in different areas of Boston based on various features such as crime rate, nitric oxide concentration, proximity to highways, and more. By using these features, the model can provide insights into how different factors influence housing prices in the Boston area.
 
 ## Dataset
-[Boston Housing Dataset](https://www.kaggle.com/code/sakshisatre/boston-housing-price-prediction)
+[Boston Housing Dataset](https://www.kaggle.com/datasets/krupadharamshi/bostonhousing/data)
 
 ### Features:
 - **crime_rate**: Per capita crime rate by town.
